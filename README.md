@@ -5,6 +5,7 @@ https://www.craiyon.com 으로 이미지 생성 후 크롤링을 진행합니다
 CrowlingImage.py를 이용하여 이미지를 생성하고 크롤링하세요!
 
 1. 크롬을 설치하세요 이후 크롬 버전에 맞는 chromedriver를 다운받아 해당 python파일과 같은 위치에 있게 만드세요.
+
 2. 가상환경을 만드세요
 $ python -m venv test1
 
